@@ -4,7 +4,7 @@
 
 克隆这个项目，同时新建几个文件夹，完整目录如下：
 
-input_video
+  input_video
 output
 query
 reid
@@ -19,7 +19,7 @@ input_video存放待检测的视频或图片或came
 query输入要查询的人物截图
 weights存放yolov3.weights和reid.pth
 hst_search.py 是利用颜色直方图检索行人ID
-search.py是基于strong_baseline的深度学习检索方法。
+  search.py是基于strong_baseline的深度学习检索方法。
 
 运行步骤：
 1。按照上面结构新建input_video,output,weights文件夹。
