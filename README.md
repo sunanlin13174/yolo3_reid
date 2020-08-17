@@ -23,7 +23,7 @@ hst_search.py 是利用颜色直方图检索行人ID
 
 运行步骤：  
 1。按照上面结构新建input_video,output,weights文件夹。  
-2.下载yolov3.weights权重和reid.pth放入weights文件夹，下载链接：  
+2.下载yolov3.weights权重和reid.pth放入weights文件夹，下载链接：1317477457@qq.com索要  
 3.将要检索的视频放入input_video文件夹。  
 4.通过query_get.py截图要检索的人物，截取的图片自动放入query中  
 5.python search.py 或者 hst_search.py  
