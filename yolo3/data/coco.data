@@ -1,0 +1,4 @@
+classes=80
+names=yolo3/data/coco.names
+backup=backup/
+eval=coco
